@@ -1,0 +1,6 @@
+{
+    "Usuario": "ctflteste"
+    "Senha": "YdrTXPK#mcG7KUT#H@$P"
+    "Host": 52.200.142.116
+    "Conteudo": "Your server is not safe, try for new password ideas in next time.ldoebaot.h"
+}
